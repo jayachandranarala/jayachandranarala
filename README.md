@@ -51,17 +51,17 @@ I'm always excited to:
 
 ---
 
- 📫 Let's Connect!
+<!-- ##📫 Let's Connect!
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-🌐 Portfolio / Blog: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🌐 Portfolio / Blog: [yourwebsite.com](https://yourwebsite.com) -->
 
 
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-When I’m not coding, you’ll find me sketching ideas for the next AI breakthrough or cracking jokes to keep the neurons firing. I believe **tech should be fun, meaningful, and collaborative** 🚀😄
+When I’m not coding, you’ll find me sketching ideas for the next AI breakthrough or cracking jokes to keep the neurons firing. I believe **tech should be fun, meaningful, and collaborative** 
 
 ---
 
