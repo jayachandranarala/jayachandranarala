@@ -5,6 +5,21 @@
 </p>
 
 ---
+## 🧠 About Me
+
+🌌 I’m a passionate **AI/ML engineer** crafting real-world solutions with a deep love for **Generative AI**, **LLMs**, and **Responsible AI**  
+📍 Obsessed with creating things that **learn**, **adapt**, and **make decisions**  
+🧬 Bridging cutting-edge **research** with practical engineering to shape the future of intelligent systems
+
+---
+
+## 🛠️ Current Focus
+
+🎯 Fine-tuning **Large Language Models (LLMs)** for accuracy, speed & trust  
+🔁 Designing **RAG pipelines** and **agentic AI frameworks**  
+⚙️ Building robust **ML workflows** with **MLOps** on AWS, GCP, and Azure  
+🧩 Exploring **multimodal learning**, **grounded generation**, and **LLM optimization**
+
 
 ## 🚀 What I'm Working On
 - 🔬 Exploring **fine-tuning LLMs**, **RAG pipelines**, and **autonomous agent frameworks**
@@ -59,9 +74,10 @@ I'm always excited to:
 
 
 
-##  Fun Fact
+## 🌟 Fun Bytes
 
-When I’m not coding, you’ll find me sketching ideas for the next AI breakthrough or cracking jokes to keep the neurons firing. I believe **tech should be fun, meaningful, and collaborative** 
+🔹 I treat models like living creatures — always curious, learning, adapting  
+🔹 I believe the future is **multi-agent**, **multimodal**, and **responsibly built**  
+🔹 Outside tech, I’m probably geeking out on sci-fi or sketching ideas in my notebook 📓🛸
 
 ---
-
