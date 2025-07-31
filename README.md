@@ -15,16 +15,16 @@
 
 ## 🛠️ Current Focus
 
-🎯 Fine-tuning **Large Language Models (LLMs)** for accuracy, speed & trust  
-🔁 Designing **RAG pipelines** and **agentic AI frameworks**  
-⚙️ Building robust **ML workflows** with **MLOps** on AWS, GCP, and Azure  
-🧩 Exploring **multimodal learning**, **grounded generation**, and **LLM optimization**
+🎯 Fine-tuning Large Language Models (LLMs) for accuracy, speed & trust  
+🔁 Designing RAG pipelines and agentic AI frameworks 
+⚙️ Building robust ML workflows with MLOps on AWS, GCP, and Azure  
+🧩 Exploring multimodal learning, grounded generation, and LLM optimization
 
 
 ## 🚀 What I'm Working On
-- 🔬 Exploring **fine-tuning LLMs**, **RAG pipelines**, and **autonomous agent frameworks**
-- ☁️ Building scalable ML workflows using **AWS**, **GCP**, and modern **MLOps** practices
-- 📚 Deep-diving into **multimodal learning**, **graph-based reasoning**, and **Responsible AI**
+- 🔬 Exploring fine-tuning LLMs, RAG pipelines, and autonomous agent frameworks
+- ☁️ Building scalable ML workflows using AWS, GCP, and modern MLOps practices
+- 📚 Deep-diving into multimodal learning, graph-based reasoning, and Responsible AI
 
 ⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆⋆｡°✩✩°｡⋆
 
@@ -77,7 +77,7 @@ I'm always excited to:
 ## 🌟 Fun Bytes
 
 🔹 I treat models like living creatures — always curious, learning, adapting  
-🔹 I believe the future is **multi-agent**, **multimodal**, and **responsibly built**  
+🔹 I believe the future is multi-agent, multimodal, and responsibly built 
 🔹 Outside tech, I’m probably geeking out on sci-fi or sketching ideas in my notebook 📓🛸
 
 🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸
