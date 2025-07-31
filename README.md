@@ -80,4 +80,4 @@ I'm always excited to:
 🔹 I believe the future is **multi-agent**, **multimodal**, and **responsibly built**  
 🔹 Outside tech, I’m probably geeking out on sci-fi or sketching ideas in my notebook 📓🛸
 
----
+🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸
