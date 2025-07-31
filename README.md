@@ -4,14 +4,14 @@
   <em>AI enthusiast | ML engineer | LLM explorer | Always learning & building</em>
 </p>
 
----
+🧩╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌⧉
 ## 🧠 About Me
 
 🌌 I’m a passionate **AI/ML engineer** crafting real-world solutions with a deep love for **Generative AI**, **LLMs**, and **Responsible AI**  
 📍 Obsessed with creating things that **learn**, **adapt**, and **make decisions**  
 🧬 Bridging cutting-edge **research** with practical engineering to shape the future of intelligent systems
 
----
+✦｡:ﾟ･*:･ﾟ✧★✧ﾟ･*:･ﾟ｡✦
 
 ## 🛠️ Current Focus
 
@@ -26,7 +26,7 @@
 - ☁️ Building scalable ML workflows using **AWS**, **GCP**, and modern **MLOps** practices
 - 📚 Deep-diving into **multimodal learning**, **graph-based reasoning**, and **Responsible AI**
 
----
+⋆｡°✩━━━━━━━━━━━━━━━✩°｡⋆
 
 ## 🤝 Let’s Collaborate!
 I'm always excited to:
@@ -34,7 +34,7 @@ I'm always excited to:
 - 🧠 Contribute to open-source GenAI/NLP projects
 - 🤝 Connect with like-minded builders and researchers
 
----
+🍃⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗🍃
 
 ## 🧠 Tech Stack & Tools I Love
 
@@ -64,7 +64,7 @@ I'm always excited to:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
 📊 Power BI • Tableau • Matplotlib • Seaborn
 
----
+𓆩♡𓆪𓆩♡𓆪𓆩♡𓆪𓆩♡𓆪𓆩♡𓆪𓆩♡𓆪𓆩♡𓆪𓆩♡𓆪𓆩♡𓆪
 
 <!-- ##📫 Let's Connect!
 
