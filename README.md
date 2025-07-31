@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋  Welcome to my GitHub!</h1>
+<h1 align="center">Welcome to my GitHub🧑🏻‍💻 I'm an AI/ML enthusiast turning ideas into intelligent systems.🦅</h1>
 
 <p align="center">
   <em>AI enthusiast | ML engineer | LLM explorer | Always learning & building</em>
